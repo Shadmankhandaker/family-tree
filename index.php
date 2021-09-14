@@ -388,7 +388,7 @@
     <div class="clear:both"></div>
 
     
-    <div class="container" style="background-color: #94618e; ">
+    <div class="container" style="background-color: #94618e; width:100%">
         <div class="row">
             <div class="col-md-12">
                 <h3 style="color:white;">Life Stories</h3>
